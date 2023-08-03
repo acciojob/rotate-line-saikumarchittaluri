@@ -11,7 +11,7 @@ body {
             width: 200px;
             height: 2px;
             background-color: black;
-            position: relative;
+            position: absolute;
             animation: rotateLine 5s linear infinite;
         }
 
